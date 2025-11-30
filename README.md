@@ -19,7 +19,7 @@
 
 - a pasionado en el oficio 
 - juego csgo en mis tiempos libres
-- me gusta escribir en c++
+- Phyton user 
 
 <br><br>
 
@@ -129,7 +129,7 @@
 
 <div align='center'>
 
-## <b>muchas gracias por ver mi perfil...✨</b>
+## <b>muchas gracias por ver mi perfil...</b>
 
 </div>
 <br>
