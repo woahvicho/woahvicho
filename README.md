@@ -77,14 +77,6 @@ If you'd like to connect, collaborate, or talk about technology, projects, or in
 
 -----
 
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
 
 </a>
 </div>
@@ -98,17 +90,8 @@ If you'd like to connect, collaborate, or talk about technology, projects, or in
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
 <ul>
-
-<li>
-<a href="https://www.instagram.com/woahvicho/" target="_blank">
-<img src="https://img.shields.io/badge/-woahvicho -E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)bottom: 5px;"/>
-</a>
-</li>
 
 <br>
 
