@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm woahvicho </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Vicente Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=tengo+el+talento+lo+hago+por+mi..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -17,9 +17,15 @@
 
 <br>
 
-- a pasionado en el oficio 
-- juego csgo en mis tiempos libres
-- Phyton user 
+I'm a second-year Computer Engineering student at the Pontifical Catholic University of Valparaíso, with a strong interest in developing technological solutions that generate real impact.
+
+I'm known for my strong leadership skills, guiding teams and projects toward clear results. I enjoy working under pressure, maintaining organization, and making effective decisions.
+
+I'm highly motivated to learn, gain experience, and take on new challenges. I also excel at contributing innovative ideas and practical solutions that help optimize processes or solve complex problems.
+
+I'm currently seeking opportunities that will allow me to grow professionally, contribute to work teams, and continue developing my skills in technology, project management, and software engineering.
+
+If you'd like to connect, collaborate, or talk about technology, projects, or innovation, I'd be happy to.
 
 <br><br>
 
@@ -33,7 +39,6 @@
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -41,7 +46,6 @@
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
@@ -54,9 +58,7 @@
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
