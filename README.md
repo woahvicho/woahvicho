@@ -9,11 +9,9 @@
 <br>
 
 
-
-	
 ## <picture><img src = "https://www.deviantart.com/spideysamusfan2017/art/8-bit-Spider-Man-Game-Boy-Color-701569529" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://www.deviantart.com/spideysamusfan2017/art/8-bit-Spider-Man-Game-Boy-Color-701569529)" width = 250px></picture>
+<picture> <img align="right" src="[https://www.deviantart.com/spideysamusfan2017/art/8-bit-Spider-Man-Game-Boy-Color-701569529](https://www.deviantart.com/spideysamusfan2017/art/8-bit-Spider-Man-Game-Boy-Color-701569529)" width = 250px></picture>
 
 <br>
 
@@ -75,21 +73,6 @@ If you'd like to connect, collaborate, or talk about technology, projects, or in
 <br>
 <br>
 
------
-
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
 
 <ul>
 
@@ -114,7 +97,7 @@ If you'd like to connect, collaborate, or talk about technology, projects, or in
 
 <div align='center'>
 
-## <b>muchas gracias por ver mi perfil...</b>
+## <b>Thanks for viewing this profile, I look forward to your message.</b>
 
 </div>
 <br>
