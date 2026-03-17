@@ -15,7 +15,7 @@
 
 <br>
 
-I'm a second-year Computer Engineering student at La Pontificia Universidad Catolica de Valparaiso, with a strong interest in developing technological solutions that generate real impact.
+I'm a second-year Computer Engineering student at Pontificia Universidad Catolica de Valparaiso, with a strong interest in developing technological solutions that generate real impact.
 
 I'm known for my strong leadership skills, guiding teams and projects toward clear results. I enjoy working under pressure, maintaining organization, and making effective decisions.
 
